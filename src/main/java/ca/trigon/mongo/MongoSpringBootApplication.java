@@ -18,7 +18,7 @@ import ca.trigon.mongo.template.Price;
 
 @SpringBootApplication
 public class MongoSpringBootApplication implements CommandLineRunner {
-
+        // gary test
 	@Autowired
 	BookDAO bookDAO;
 	
